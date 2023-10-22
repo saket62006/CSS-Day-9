@@ -1,0 +1,20 @@
+.main1{
+    position: relative;
+    height: 350px;
+    width: 400px;
+    background-color: orange;
+}
+
+.main2{
+    position: absolute;
+    height: 330px;
+    width: 350px;
+    background-color: blue;
+}
+
+.main3{
+    position: fixed;
+    height: 200px;
+    width: 250px;
+    background-color: brown;
+}
